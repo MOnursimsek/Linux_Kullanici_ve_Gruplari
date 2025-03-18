@@ -334,6 +334,21 @@ Belirtilen isimdeki grubu siler.
 ---
 ---
 
+### **Kolay Kullanıcı Oluşturma**
+
+`adduser` Linux'ta yeni bir kullanıcı hesabı oluşturmak için kullanılan bir komuttur. Bu komut, özellikle Debian tabanlı dağıtımlarda (Ubuntu, Linux Mint, vb.) kullanıcı dostu bir araç olarak sunulur
+
+```
+man adduser  
+```
+adduser ile bir kullanıcı oluşturduğunuzda useradd ile oluşutrmaya kıyask-la çok kolaydır.
+
+![alt text](Resimler/adduser.png)
+
+istenen bilgilerden doldurmak istemediklerinizi enter ile geçebilirsiniz.
+
+komutuyla klavuz sayfasını okuyarak daha çok bilgi öğrenebilirsiniz.
+
 ## **Kaynakça**
 
 [1 . Linux'ta Kullanıcı Yönetimi (freeCodeCamp)](https://www.freecodecamp.org/news/how-to-manage-users-in-linux)  
